@@ -1,4 +1,4 @@
-# Sharp Tools Checklist
+# 🗡🪚⚙ Sharp Tools Checklist 🗡🪚⚙
 
 Make a copy of this file, add it to a ticket/ to-do, and check it off when you think it's complete
 
@@ -16,3 +16,6 @@ and make sure autocomplete is working (see other article). Get a few good aliase
 - [ ] Get familiar with some key git commands, including how to create a new branch, check out a branch, push work.
 - [ ] You have read our LLM usage guidelines (incoming)
 
+Happy coding 😎
+
+![car-repair](https://github.com/user-attachments/assets/6e6053bd-cadd-4c21-b5b7-f0c601aae5d1)
